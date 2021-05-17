@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nirhuri
 - 👀 I’m interested in web development!
-- 🌱 I’m currently learning node, react and many more.
+- 🌱 I’m currently working with node.js and react.
 - 💞️ I’m looking to collaborate on interesting open source projects.
 - 📫 How to reach me: hurinir@gmail.com
 
