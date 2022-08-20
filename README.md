@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nirhuri
-- 👀 I’m interested in web & mobile development!
+- 👀 I’m interested in backend and web development!
 - 🌱 I’m currently working with Node.JS and React Native.
 - 💞️ I’m looking to collaborate on interesting open source projects.
 - 📫 How to reach me: hurinir@gmail.com
